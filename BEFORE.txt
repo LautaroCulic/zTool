@@ -1,0 +1,16 @@
+¡ATENCIÓN!
+
+En la versión beta de zTool, muchos usarios han tenido problemas al iniciar este software.
+
+Se recomienda instalar Java y JRE para su correcto funcionamiento.
+
+Java: https://www.java.com/es/download/
+
+JRE: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+Si no sabes instalar estos programas, 
+este video puede interesarte: https://www.youtube.com/watch?v=iDlRP6sUZPg
+
+
+Muchas gracias por instalar zTool.
+					-Lautaro Culic'

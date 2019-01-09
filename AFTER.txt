@@ -1,0 +1,9 @@
+Gracias por descargar zTool.
+
+Por favor, ante un error del software, contáctame: http://www.lautaroculic.com
+
+Recuerde que debe tener instalado Java y JRE.
+
+JRE: https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+Java: https://www.java.com/es/download/
